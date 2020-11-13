@@ -1,0 +1,19 @@
+.main-header {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header-text {
+  max-width: 600px;
+}
+
+.header-text h1 {
+  line-height: 140%;
+}
+
+.header-text p {
+  line-height: 150%;
+}

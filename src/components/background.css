@@ -1,0 +1,19 @@
+.main-background {
+  display: flex;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: space-around;
+  height: 100%;
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  right: 0%;
+  bottom: 0%;
+}
+
+.background-line {
+  width: 1px;
+  height: 100%;
+  background-color: white;
+  opacity: 0.25;
+}
